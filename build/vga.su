@@ -1,0 +1,13 @@
+kernel/chr_drv/vga.c:146:13:scroll_if_needed.part.0	4	static
+kernel/chr_drv/vga.c:63:6:vga_page_select	4	static
+kernel/chr_drv/vga.c:71:14:vga_crtc_start	8	static
+kernel/chr_drv/vga.c:80:14:vga_cursor_hardware	8	static
+kernel/chr_drv/vga.c:88:14:vga_cursor_position	4	static
+kernel/chr_drv/vga.c:94:6:vga_cursor_set	8	static
+kernel/chr_drv/vga.c:106:6:vga_cursor_hw_set	8	static
+kernel/chr_drv/vga.c:115:6:vga_cursor_shape	4	static
+kernel/chr_drv/vga.c:122:14:vga_cursor_shape_read	8	static
+kernel/chr_drv/vga.c:131:6:vga_cursor_show	16	static
+kernel/chr_drv/vga.c:166:6:vga_clear	4	static
+kernel/chr_drv/vga.c:179:6:vga_putc	48	dynamic,bounded
+kernel/chr_drv/vga.c:208:6:vga_print_hex	32	dynamic,bounded

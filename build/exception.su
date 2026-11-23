@@ -1,0 +1,4 @@
+kernel/exception.c:57:6:exception_handler	32	dynamic,bounded
+kernel/exception.c:111:15:exception_handler_pf	80	dynamic,bounded
+kernel/exception.c:185:15:exception_handler_gp	32	dynamic,bounded
+kernel/exception.c:204:6:exception_init	32	dynamic,bounded

@@ -1,0 +1,5 @@
+fs/char_dev.c:22:12:tty_open	4	static
+fs/char_dev.c:60:12:tty_lseek	4	static
+fs/char_dev.c:28:12:tty_read	16	static
+fs/char_dev.c:44:12:tty_write	32	dynamic,bounded
+fs/char_dev.c:79:14:tty_out_bytes	4	static

@@ -1,0 +1,14 @@
+mm/pgdir.c:44:14:pgdir_current	4	static
+mm/pgdir.c:87:5:pgdir_init	48	dynamic,bounded
+mm/pgdir.c:119:14:pgdir_of	4	static
+mm/pgdir.c:126:14:pgdir_activate	48	dynamic,bounded
+mm/pgdir.c:140:6:pgdir_kernel	32	dynamic,bounded
+mm/pgdir.c:162:6:pgdir_switch	32	dynamic,bounded
+mm/pgdir.c:188:5:pgdir_set_user_page	32	dynamic,bounded
+mm/pgdir.c:241:5:pgdir_set_user	32	dynamic,bounded
+mm/pgdir.c:246:14:pgdir_clear_user	48	dynamic,bounded
+mm/pgdir.c:269:14:pgdir_user_pages	8	static
+mm/pgdir.c:283:14:pgdir_switches	4	static
+mm/pgdir.c:284:14:pgdir_cr3_of	4	static
+mm/pgdir.c:285:14:pgdir_maps	4	static
+mm/pgdir.c:286:14:pgdir_fails	4	static

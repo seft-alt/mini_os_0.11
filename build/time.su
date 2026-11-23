@@ -1,0 +1,9 @@
+lib/time.c:142:14:time_iso.part.0	16	static
+lib/time.c:23:5:time_is_leap	4	static
+lib/time.c:32:5:time_days_in_month	4	static
+lib/time.c:77:5:time_mktime	32	static
+lib/time.c:117:5:time_gmtime	32	static
+lib/time.c:142:14:time_iso	8	static
+lib/time.c:175:13:time_wday_name	4	static
+lib/time.c:182:13:time_mon_name	4	static
+lib/time.c:212:14:time_selftest	156	dynamic,bounded

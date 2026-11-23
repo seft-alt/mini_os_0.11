@@ -1,0 +1,9 @@
+kernel/kv.c:36:13:put_dec.part.0	36	static
+kernel/kv.c:66:6:kv_begin	20	static
+kernel/kv.c:75:6:kv_dec	28	static
+kernel/kv.c:85:6:kv_hex	28	static
+kernel/kv.c:95:6:kv_code	28	static
+kernel/kv.c:119:6:kv_str	28	static
+kernel/kv.c:129:6:kv_end	48	dynamic,bounded
+kernel/kv.c:145:14:kv_lines	4	static
+kernel/kv.c:146:14:kv_overflowed	4	static

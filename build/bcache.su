@@ -1,0 +1,7 @@
+fs/bcache.c:51:6:bcache_init	16	static
+fs/bcache.c:68:5:bcache_read	64	dynamic,bounded
+fs/bcache.c:106:5:bcache_write	64	dynamic,bounded
+fs/bcache.c:128:5:bcache_sync	4	static
+fs/bcache.c:133:14:bcache_hits	4	static
+fs/bcache.c:138:14:bcache_misses	4	static
+fs/bcache.c:143:14:bcache_writes	4	static

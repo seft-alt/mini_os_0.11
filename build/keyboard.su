@@ -1,0 +1,5 @@
+kernel/chr_drv/keyboard.c:96:5:kbd_feed	4	static
+kernel/chr_drv/keyboard.c:142:6:irq1_keyboard_handler	32	dynamic,bounded
+kernel/chr_drv/keyboard.c:169:6:keyboard_init	32	dynamic,bounded
+kernel/chr_drv/keyboard.c:180:14:kbd_pic_mask	4	static
+kernel/chr_drv/keyboard.c:185:14:kbd_irq_count	4	static

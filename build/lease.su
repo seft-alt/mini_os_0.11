@@ -1,0 +1,16 @@
+mm/lease.c:89:12:lease_drop	48	dynamic,bounded
+mm/lease.c:116:5:page_lease_open	48	dynamic,bounded
+mm/lease.c:157:5:page_lease_close	8	static
+mm/lease.c:170:14:page_lease_release_owner	32	dynamic,bounded
+mm/lease.c:201:14:page_lease_tick	16	static
+mm/lease.c:224:5:page_lease_handoff	48	dynamic,bounded
+mm/lease.c:242:14:page_lease_handed	4	static
+mm/lease.c:247:14:page_lease_owner_of	8	static
+mm/lease.c:258:14:page_lease_active	4	static
+mm/lease.c:270:14:page_lease_forced	4	static
+mm/lease.c:275:14:page_lease_revoked	4	static
+mm/lease.c:280:14:page_lease_denied	4	static
+mm/lease.c:285:14:page_lease_refs	8	static
+mm/lease.c:292:5:page_lease_bind	4	static
+mm/lease.c:314:5:page_lease_unbind	4	static
+mm/lease.c:328:14:page_lease_notified	4	static

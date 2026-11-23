@@ -1,0 +1,9 @@
+mm/page.c:53:6:page_init	32	dynamic,bounded
+mm/page.c:94:14:page_alloc	32	dynamic,bounded
+mm/page.c:117:14:page_alloc_pair	32	dynamic,bounded
+mm/page.c:138:14:page_alloc_run	64	dynamic,bounded
+mm/page.c:162:6:page_free_run	32	static
+mm/page.c:170:6:page_free	4	static
+mm/page.c:189:14:page_frames_total	4	static
+mm/page.c:190:14:page_frames_used	4	static
+mm/page.c:191:14:page_frames_free	4	static

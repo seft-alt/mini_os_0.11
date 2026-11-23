@@ -1,0 +1,3 @@
+shell/cmd_prog.c:31:5:cmd_pgd	144	dynamic,bounded
+shell/cmd_prog.c:90:5:cmd_exec	256	dynamic,bounded
+shell/cmd_prog.c:229:5:cmd_sys	128	dynamic,bounded

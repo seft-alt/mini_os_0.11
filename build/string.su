@@ -1,0 +1,8 @@
+lib/string.c:9:7:memcpy	12	static
+lib/string.c:19:7:memset	12	static
+lib/string.c:28:5:memcmp	12	static
+lib/string.c:42:14:strlen	4	static
+lib/string.c:51:5:strcmp	8	static
+lib/string.c:60:5:strncmp	8	static
+lib/string.c:72:5:atoi	16	static
+lib/string.c:90:7:strcpy	8	static

@@ -1,0 +1,3 @@
+fs/file_dev.c:64:12:file_lseek	4	static
+fs/file_dev.c:36:12:file_write	48	dynamic,bounded
+fs/file_dev.c:16:12:file_read	32	dynamic,bounded

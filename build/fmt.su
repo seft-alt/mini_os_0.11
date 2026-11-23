@@ -1,0 +1,12 @@
+shell/fmt.c:75:14:udec.part.0	36	static
+shell/fmt.c:12:14:hex2b	4	static
+shell/fmt.c:24:14:hex3	4	static
+shell/fmt.c:37:14:hex4	4	static
+shell/fmt.c:50:14:hex6	8	static
+shell/fmt.c:63:14:hex8	8	static
+shell/fmt.c:75:14:udec	4	static
+shell/fmt.c:94:14:put_lit	8	static
+shell/fmt.c:103:14:put_rc	4	static
+shell/fmt.c:112:14:put_s	8	static
+shell/fmt.c:121:14:u3	16	static
+shell/fmt.c:130:14:sdec	4	static

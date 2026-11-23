@@ -1,0 +1,5 @@
+fs/elf.c:73:5:elf_load_map.part.0	60	static
+fs/elf.c:45:5:elf_probe	4	static
+fs/elf.c:63:5:elf_load	28	dynamic,bounded
+fs/elf.c:73:5:elf_load_map	36	dynamic,bounded
+fs/elf.c:143:14:elf_span	36	dynamic,bounded

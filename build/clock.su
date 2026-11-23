@@ -1,0 +1,14 @@
+kernel/clock.c:35:5:clock_init	80	dynamic,bounded
+kernel/clock.c:55:5:clock_ready	4	static
+kernel/clock.c:60:6:clock_epoch	16	static
+kernel/clock.c:70:14:clock_ms_of_second	16	static
+kernel/clock.c:80:5:clock_resync	80	dynamic,bounded
+kernel/clock.c:116:5:clock_skew	80	dynamic,bounded
+kernel/clock.c:136:6:clock_poll	16	static
+kernel/clock.c:144:6:clock_base_epoch	4	static
+kernel/clock.c:149:15:clock_base_tick	4	static
+kernel/clock.c:154:14:clock_syncs	4	static
+kernel/clock.c:159:14:clock_rejects	4	static
+kernel/clock.c:164:14:clock_read_fails	4	static
+kernel/clock.c:169:5:clock_last_delta	4	static
+kernel/clock.c:174:14:clock_max_step	4	static

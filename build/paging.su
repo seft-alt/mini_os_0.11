@@ -1,0 +1,9 @@
+mm/paging.c:33:6:page_demand_window	4	static
+mm/paging.c:39:14:page_fault_map	32	static
+mm/paging.c:79:14:page_unmap	48	dynamic,bounded
+mm/paging.c:112:14:page_identity_unmap	8	static
+mm/paging.c:133:6:page_identity_restore	8	static
+mm/paging.c:155:14:page_mark_user	8	static
+mm/paging.c:178:14:page_mark_kernel	8	static
+mm/paging.c:199:14:page_identity_flags	4	static
+mm/paging.c:227:14:page_lock_kernel	20	static

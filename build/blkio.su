@@ -1,0 +1,8 @@
+fs/blkio.c:16:14:u32_at	4	static
+fs/blkio.c:24:14:u16_at	4	static
+fs/blkio.c:30:6:u16_put	4	static
+fs/blkio.c:36:6:u32_put	4	static
+fs/blkio.c:46:5:blk_read	32	dynamic,bounded
+fs/blkio.c:57:5:blk_write	32	dynamic,bounded
+fs/blkio.c:75:5:blk_lookup	32	dynamic,bounded
+fs/blkio.c:93:5:blk_ensure	48	dynamic,bounded

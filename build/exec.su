@@ -1,0 +1,16 @@
+fs/exec.c:139:13:exec_task_dtor	32	dynamic,bounded
+fs/exec.c:80:13:exec_task_body	48	dynamic,bounded
+fs/exec.c:158:13:exec_unwind	48	dynamic,bounded
+fs/exec.c:429:5:exec_run	128	dynamic,bounded
+fs/exec.c:453:5:exec_slots_used	4	static
+fs/exec.c:464:14:exec_count	4	static
+fs/exec.c:465:14:exec_failures	4	static
+fs/exec.c:468:14:exec_elf_count	4	static
+fs/exec.c:469:14:exec_last_pages	4	static
+fs/exec.c:470:14:exec_last_handed	4	static
+fs/exec.c:472:14:exec_last_user_pages	4	static
+fs/exec.c:484:15:exec_exit_code	4	static
+fs/exec.c:489:5:exec_last_slot	4	static
+fs/exec.c:494:5:exec_last_death	4	static
+fs/exec.c:501:14:exec_last_entry	4	static
+fs/exec.c:508:14:exec_live_aspaces	4	static

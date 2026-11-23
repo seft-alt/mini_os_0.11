@@ -1,0 +1,5 @@
+kernel/klog.c:41:6:klog_putc	16	static
+kernel/klog.c:56:14:klog_count	4	static
+kernel/klog.c:61:13:klog_get	4	static
+kernel/klog.c:73:15:klog_dropped	4	static
+kernel/klog.c:78:15:klog_overwrote	4	static

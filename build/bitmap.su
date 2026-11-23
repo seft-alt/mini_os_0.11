@@ -1,0 +1,2 @@
+fs/bitmap.c:10:14:bitmap_alloc	64	dynamic,bounded
+fs/bitmap.c:33:5:bitmap_clear	32	dynamic,bounded

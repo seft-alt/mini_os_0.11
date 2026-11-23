@@ -1,0 +1,11 @@
+kernel/kwait.c:35:12:kw_has_data	4	static
+kernel/kwait.c:42:12:kw_has_ack	4	static
+kernel/kwait.c:49:13:kw_reader	48	dynamic,bounded
+kernel/kwait.c:71:13:kw_writer	64	dynamic,bounded
+kernel/kwait.c:91:5:kwait_selftest	64	dynamic,bounded
+kernel/kwait.c:173:14:kwait_rounds	4	static
+kernel/kwait.c:174:14:kwait_ok	4	static
+kernel/kwait.c:175:14:kwait_timeout	4	static
+kernel/kwait.c:176:14:kwait_waits	4	static
+kernel/kwait.c:177:14:kwait_wakeups	4	static
+kernel/kwait.c:179:5:kwait_left	4	static

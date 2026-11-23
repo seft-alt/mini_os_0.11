@@ -1,0 +1,8 @@
+kernel/blk_drv/blkdev.c:30:5:blkdev_register	8	static
+kernel/blk_drv/blkdev.c:52:5:blkdev_init	48	dynamic,bounded
+kernel/blk_drv/blkdev.c:65:5:blkdev_read	32	dynamic,bounded
+kernel/blk_drv/blkdev.c:82:5:blkdev_write	32	dynamic,bounded
+kernel/blk_drv/blkdev.c:99:14:blkdev_count	4	static
+kernel/blk_drv/blkdev.c:104:14:blkdev_sectors	4	static
+kernel/blk_drv/blkdev.c:109:13:blkdev_name	4	static
+kernel/blk_drv/blkdev.c:114:5:blkdev_drive	4	static

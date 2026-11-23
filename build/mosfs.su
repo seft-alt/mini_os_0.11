@@ -1,0 +1,6 @@
+fs/mosfs.c:21:5:fs_mkdir	224	dynamic,bounded
+fs/mosfs.c:114:5:fs_read	80	dynamic,bounded
+fs/mosfs.c:152:5:fs_create	176	dynamic,bounded
+fs/mosfs.c:211:5:fs_write	96	dynamic,bounded
+fs/mosfs.c:263:5:fs_unlink	144	dynamic,bounded
+fs/mosfs.c:306:5:fs_rmdir	176	dynamic,bounded

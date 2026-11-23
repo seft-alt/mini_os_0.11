@@ -1,0 +1,8 @@
+shell/cmd_info.c:29:5:cmd_stat	128	dynamic,bounded
+shell/cmd_info.c:74:5:cmd_irq	144	dynamic,bounded
+shell/cmd_info.c:145:5:cmd_tasks	128	dynamic,bounded
+shell/cmd_info.c:199:5:cmd_log	144	dynamic,bounded
+shell/cmd_info.c:225:5:cmd_heap	112	dynamic,bounded
+shell/cmd_info.c:251:5:cmd_kstress	112	dynamic,bounded
+shell/cmd_info.c:285:5:cmd_kwait	112	dynamic,bounded
+shell/cmd_info.c:316:5:cmd_panic	32	dynamic,bounded

@@ -1,0 +1,1 @@
+kernel/idt.c:21:6:idt_set_gate	4	static

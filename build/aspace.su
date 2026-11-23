@@ -1,0 +1,4 @@
+mm/aspace.c:11:16:aspace_new	4	static
+mm/aspace.c:30:6:aspace_free	4	static
+mm/aspace.c:43:5:aspace_index	4	static
+mm/aspace.c:50:14:aspace_used	4	static

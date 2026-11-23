@@ -1,0 +1,16 @@
+shell/state.c:14:21:shell_state	4	static
+shell/state.c:20:5:shell_bind	4	static
+shell/state.c:26:14:shell_bound_owner	4	static
+shell/state.c:32:5:shell_str_eq	8	static
+shell/state.c:45:5:shell_str_len	4	static
+shell/state.c:55:14:shell_runs	4	static
+shell/state.c:56:14:shell_unknown	4	static
+shell/state.c:57:14:shell_errors	4	static
+shell/state.c:58:14:shell_last_argc	4	static
+shell/state.c:59:14:shell_last_rc	4	static
+shell/state.c:62:14:shell_hist_count	4	static
+shell/state.c:63:13:shell_hist_line	4	static
+shell/state.c:69:14:shell_hist_len	8	static
+shell/state.c:77:14:shell_var_count	4	static
+shell/state.c:86:13:shell_var_name	4	static
+shell/state.c:92:13:shell_var_value	4	static

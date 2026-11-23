@@ -1,0 +1,1 @@
+kernel/blk_drv/part.c:32:5:part_init	80	dynamic,bounded

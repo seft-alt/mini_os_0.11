@@ -1,0 +1,12 @@
+fs/pipe.c:72:12:pipe_open	4	static
+fs/pipe.c:80:12:pipe_read	12	static
+fs/pipe.c:107:12:pipe_write	20	static
+fs/pipe.c:136:12:pipe_lseek	4	static
+fs/pipe.c:143:13:pipe_release	32	dynamic,bounded
+fs/pipe.c:39:5:pipe_new	32	dynamic,bounded
+fs/pipe.c:59:6:pipe_free	32	dynamic,bounded
+fs/pipe.c:172:14:pipe_live	4	static
+fs/pipe.c:173:14:pipe_created	4	static
+fs/pipe.c:174:14:pipe_read_bytes	4	static
+fs/pipe.c:175:14:pipe_write_bytes	4	static
+fs/pipe.c:176:14:pipe_dropped	4	static

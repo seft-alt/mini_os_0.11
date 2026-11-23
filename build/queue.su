@@ -1,0 +1,16 @@
+kernel/queue.c:23:15:slice_for	4	static
+kernel/queue.c:37:6:note_quantum_burn	4	static
+kernel/queue.c:65:5:rq_contains	24	static
+kernel/queue.c:77:6:rq_push	28	static
+kernel/queue.c:89:6:rq_remove	36	static
+kernel/queue.c:109:5:rq_top	20	static
+kernel/queue.c:131:5:sq_less	4	static
+kernel/queue.c:136:6:sq_swap	8	static
+kernel/queue.c:145:6:sq_insert	16	static
+kernel/queue.c:161:6:sq_sift_down	20	static
+kernel/queue.c:179:6:sq_pop	8	dynamic,bounded
+kernel/queue.c:191:6:aging_pass	20	dynamic,bounded
+kernel/queue.c:213:6:wake_sleepers	48	dynamic,bounded
+kernel/queue.c:230:6:queue_reset	4	static
+kernel/queue.c:242:5:rq_depth_total	4	static
+kernel/queue.c:253:5:sq_depth	4	static

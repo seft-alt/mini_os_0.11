@@ -1,0 +1,9 @@
+shell/shell.c:90:12:cmd_hist	32	dynamic,bounded
+shell/shell.c:109:12:cmd_ver	32	dynamic,bounded
+shell/shell.c:72:12:cmd_help	32	dynamic,bounded
+shell/shell.c:125:12:cmd_set	144	dynamic,bounded
+shell/shell.c:117:12:cmd_clear	16	static
+shell/shell.c:166:12:cmd_unset	32	dynamic,bounded
+shell/shell.c:103:12:cmd_echo	128	dynamic,bounded
+shell/shell.c:311:5:shell_run	112	dynamic,bounded
+shell/shell.c:380:6:shell_console_open	16	static

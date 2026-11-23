@@ -1,0 +1,16 @@
+fs/namei.c:79:5:fs_lookup.part.0	28	static
+fs/namei.c:15:5:root_load	128	dynamic,bounded
+fs/namei.c:61:14:fs_dir_count	4	static
+fs/namei.c:66:5:fs_dir_entry	16	static
+fs/namei.c:79:5:fs_lookup	4	static
+fs/namei.c:100:5:name_eq	8	static
+fs/namei.c:115:5:dir_find	128	dynamic,bounded
+fs/namei.c:152:5:fs_path_lookup	96	dynamic,bounded
+fs/namei.c:207:14:fs_dir_count_at	64	dynamic,bounded
+fs/namei.c:218:5:fs_dir_entry_at	112	dynamic,bounded
+fs/namei.c:257:5:path_split	20	static
+fs/namei.c:300:5:dir_add	64	dynamic,bounded
+fs/namei.c:325:5:dir_del	80	dynamic,bounded
+fs/namei.c:348:5:dir_index_of	96	dynamic,bounded
+fs/namei.c:375:5:root_del	96	dynamic,bounded
+fs/namei.c:405:5:locate_in_dir	96	dynamic,bounded

@@ -1,0 +1,7 @@
+mm/heap.c:55:6:heap_init	4	static
+mm/heap.c:116:7:kalloc	32	static
+mm/heap.c:159:6:kfree	8	static
+mm/heap.c:189:14:heap_pages	4	static
+mm/heap.c:190:14:heap_used_bytes	4	static
+mm/heap.c:191:14:heap_live_blocks	4	static
+mm/heap.c:195:15:heap_selftest	48	dynamic,bounded

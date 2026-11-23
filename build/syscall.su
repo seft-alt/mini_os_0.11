@@ -1,0 +1,11 @@
+kernel/syscall.c:44:6:sys_user_window	16	static
+kernel/syscall.c:54:6:sys_user_window_reset	4	static
+kernel/syscall.c:62:5:sys_ptr_ok	16	static
+kernel/syscall.c:79:6:sys_note_denied	4	static
+kernel/syscall.c:88:5:sys_str_ok	16	static
+kernel/syscall.c:190:15:sys_dispatch	112	dynamic,bounded
+kernel/syscall.c:240:15:sys_calls	4	static
+kernel/syscall.c:241:15:sys_denied	4	static
+kernel/syscall.c:242:15:sys_bytes_out	4	static
+kernel/syscall.c:243:15:sys_last_nr	4	static
+kernel/syscall.c:244:15:sys_exit_code	4	static

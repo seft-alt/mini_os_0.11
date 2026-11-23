@@ -1,0 +1,9 @@
+fs/super.c:51:5:fs_mount	64	dynamic,bounded
+fs/super.c:97:14:fs_blocks	4	static
+fs/super.c:98:14:fs_inodes	4	static
+fs/super.c:101:14:fs_reads	4	static
+fs/super.c:102:14:fs_hits	4	static
+fs/super.c:103:14:fs_errors	4	static
+fs/super.c:104:14:fs_writes	4	static
+fs/super.c:105:14:fs_creates	4	static
+fs/super.c:106:14:fs_unlinks	4	static

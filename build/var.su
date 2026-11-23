@@ -1,0 +1,5 @@
+shell/var.c:12:5:shell_var_find.part.0	48	dynamic,bounded
+shell/var.c:6:5:shell_var_name_char	4	static
+shell/var.c:12:5:shell_var_find	4	static
+shell/var.c:28:5:shell_var_set	64	dynamic,bounded
+shell/var.c:59:6:shell_var_clear	16	static

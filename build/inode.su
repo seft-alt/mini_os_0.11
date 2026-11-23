@@ -1,0 +1,5 @@
+fs/inode.c:10:5:inode_read	64	dynamic,bounded
+fs/inode.c:30:5:inode_write	64	dynamic,bounded
+fs/inode.c:52:14:inode_alloc	64	dynamic,bounded
+fs/inode.c:73:5:inode_zero	64	dynamic,bounded
+fs/inode.c:84:5:free_inode	80	dynamic,bounded

@@ -1,0 +1,13 @@
+kernel/tune.c:144:22:tune_store	8	static
+kernel/tune.c:75:6:sched_tune_defaults	4	static
+kernel/tune.c:169:15:sched_tune_apply	4	static
+kernel/tune.c:175:15:tune_gate_apply	4	static
+kernel/tune.c:183:15:tune_gate_cap	4	static
+kernel/tune.c:193:6:tune_gate_user_window	4	static
+kernel/tune.c:210:15:tune_syscall	32	dynamic,bounded
+kernel/tune.c:229:15:tune_gate_call	64	dynamic,bounded
+kernel/tune.c:279:6:sched_tune_gate_init	8	static
+kernel/tune.c:298:15:tune_gate_dpl	4	static
+kernel/tune.c:308:6:sched_tune_init	32	dynamic,bounded
+kernel/tune.c:324:15:tune_field_set	8	static
+kernel/tune.c:334:15:tune_gate_set	20	static

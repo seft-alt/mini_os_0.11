@@ -1,0 +1,9 @@
+kernel/blk_drv/ata.c:149:5:ata_probe	24	static
+kernel/blk_drv/ata.c:167:5:ata_present_mask	4	static
+kernel/blk_drv/ata.c:172:14:ata_sectors	4	static
+kernel/blk_drv/ata.c:179:5:ata_read	16	static
+kernel/blk_drv/ata.c:225:5:ata_write	20	static
+kernel/blk_drv/ata.c:279:14:ata_reads	4	static
+kernel/blk_drv/ata.c:284:14:ata_writes	4	static
+kernel/blk_drv/ata.c:289:14:ata_errors	4	static
+kernel/blk_drv/ata.c:294:16:ata_buffer	4	static

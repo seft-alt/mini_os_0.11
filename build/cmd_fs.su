@@ -1,0 +1,10 @@
+shell/cmd_fs.c:19:5:cmd_disk	144	dynamic,bounded
+shell/cmd_fs.c:104:5:cmd_fs	112	dynamic,bounded
+shell/cmd_fs.c:143:5:cmd_ls	240	dynamic,bounded
+shell/cmd_fs.c:207:5:cmd_mkdir	160	dynamic,bounded
+shell/cmd_fs.c:239:5:cmd_cat	448	dynamic,bounded
+shell/cmd_fs.c:298:5:cmd_fd	224	dynamic,bounded
+shell/cmd_fs.c:375:5:cmd_write	368	dynamic,bounded
+shell/cmd_fs.c:445:5:cmd_rm	208	dynamic,bounded
+shell/cmd_fs.c:505:5:cmd_dev	176	dynamic,bounded
+shell/cmd_fs.c:569:5:cmd_pipe	784	dynamic,bounded

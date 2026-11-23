@@ -1,0 +1,5 @@
+kernel/printk.c:55:13:put_udec	64	dynamic,bounded
+kernel/printk.c:37:13:put_hex	48	dynamic,bounded
+kernel/printk.c:83:13:vformat	48	dynamic,bounded
+kernel/printk.c:162:5:printk	16	static
+kernel/printk.c:178:5:printk_dev	16	static

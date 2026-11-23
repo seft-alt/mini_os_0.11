@@ -1,0 +1,4 @@
+kernel/chr_drv/serial.c:26:6:serial_init	4	static
+kernel/chr_drv/serial.c:38:5:serial_ready	4	static
+kernel/chr_drv/serial.c:56:6:serial_putc	4	static
+kernel/chr_drv/serial.c:63:6:serial_puts	20	static

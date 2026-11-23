@@ -1,0 +1,3 @@
+kernel/vector.c:11:6:vec_hit	4	static
+kernel/vector.c:17:15:vec_count	4	static
+kernel/vector.c:22:15:vec_total	4	static

@@ -1,0 +1,10 @@
+kernel/tss.c:86:6:tss_init	8	static
+kernel/tss.c:126:15:tss_iomap_base	4	static
+kernel/tss.c:133:6:tss_set_esp0	4	static
+kernel/tss.c:138:15:tss_esp0	4	static
+kernel/tss.c:144:15:tss_default_esp0	4	static
+kernel/tss.c:151:6:tss_set_cr3	4	static
+kernel/tss.c:156:14:tss_cr3	4	static
+kernel/tss.c:162:15:tss_tr	4	static
+kernel/tss.c:171:15:tss_gdt_base	8	static
+kernel/tss.c:181:15:tss_gdt_type	4	static

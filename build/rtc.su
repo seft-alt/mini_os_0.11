@@ -1,0 +1,4 @@
+kernel/chr_drv/rtc.c:80:14:rtc_seconds	4	static
+kernel/chr_drv/rtc.c:89:5:rtc_now	128	dynamic,bounded
+kernel/chr_drv/rtc.c:165:6:rtc_clear_flags	4	static
+kernel/chr_drv/rtc.c:170:5:rtc_update_flag	4	static

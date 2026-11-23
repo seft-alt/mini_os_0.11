@@ -1,0 +1,17 @@
+shell/console.c:77:6:shell_con_newline	32	dynamic,bounded
+shell/console.c:89:6:shell_con_puts	48	dynamic,bounded
+shell/console.c:109:6:shell_con_clear_next	4	static
+shell/console.c:114:6:shell_out_puts	16	static
+shell/console.c:129:6:shell_out_reset	4	static
+shell/console.c:143:6:shell_con_mark	4	static
+shell/console.c:152:6:shell_con_report	32	dynamic,bounded
+shell/console.c:186:6:shell_con_open	32	dynamic,bounded
+shell/console.c:213:14:shell_console_on	4	static
+shell/console.c:214:14:shell_console_row	4	static
+shell/console.c:215:14:shell_console_col	4	static
+shell/console.c:216:14:shell_console_cursor	4	static
+shell/console.c:217:14:shell_console_chars	4	static
+shell/console.c:218:14:shell_console_scrolls	4	static
+shell/console.c:220:14:shell_out_count	4	static
+shell/console.c:221:14:shell_out_len	4	static
+shell/console.c:227:13:shell_out_line	4	static

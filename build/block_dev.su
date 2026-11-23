@@ -1,0 +1,4 @@
+fs/block_dev.c:125:12:hd_lseek	4	static
+fs/block_dev.c:54:12:hd_read	64	dynamic,bounded
+fs/block_dev.c:42:12:hd_open	32	dynamic,bounded
+fs/block_dev.c:92:12:hd_write	48	dynamic,bounded

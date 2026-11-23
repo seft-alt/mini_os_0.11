@@ -1,0 +1,15 @@
+fs/fd.c:102:5:fd_open	64	dynamic,bounded
+fs/fd.c:193:5:fd_read	32	dynamic,bounded
+fs/fd.c:211:5:fd_write	32	dynamic,bounded
+fs/fd.c:229:5:fd_seek	32	dynamic,bounded
+fs/fd.c:246:5:fd_close	48	dynamic,bounded
+fs/fd.c:260:5:fd_close_all	32	dynamic,bounded
+fs/fd.c:277:14:fd_used	4	static
+fs/fd.c:290:14:fd_open_now	8	static
+fs/fd.c:299:14:fd_opens	4	static
+fs/fd.c:300:14:fd_denied	4	static
+fs/fd.c:301:14:fd_read_bytes	4	static
+fs/fd.c:302:14:fd_write_bytes	4	static
+fs/fd.c:304:5:fd_info	8	static
+fs/fd.c:319:13:fd_kind	4	static
+fs/fd.c:334:5:fd_pipe	64	dynamic,bounded
